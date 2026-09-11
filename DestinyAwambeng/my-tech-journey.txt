@@ -1,0 +1,9 @@
+MY TECH JOURNEY
+
+This week, I learned how Git and GitHub are used to manage and collaborate on projects. I learned how to create a repository, fork a repository, clone it to my computer, create branches, create files, commit changes, push changes to GitHub, and work with pull requests.
+
+I am interested in Cybersecurity because I want to understand how systems and networks are protected from cyber threats. I like that cybersecurity involves problem-solving and continuous learning.
+
+One cool thing I know about cybersecurity is that ethical hackers can identify vulnerabilities in systems and help organizations fix them before attackers can exploit them.
+
+This week, I have also been learning about source code management, Git commands, GitHub repositories, README files, cloning, branching, committing, and pushing changes. I am still learning how all these concepts fit together and how to collaborate effectively using Git and GitHub.
